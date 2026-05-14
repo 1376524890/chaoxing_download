@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.eggs/
+build/
+dist/
+.venv/
+venv/
+
+# Test and tooling
+.pytest_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# OS/editor
+.DS_Store
+.vscode/
+.idea/
+
+# Downloader outputs
+course-materials/
+downloads/
+课程全部资料/
+slides_png/
+chaoxing_fileinfo.json
+chaoxing_chapters.json
+chaoxing_batch_summary.json
+*.part
